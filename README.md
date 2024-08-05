@@ -1,2 +1,2 @@
 # HMS
-A patient record managemnt system
+A patient record management system
